@@ -1,2 +1,2 @@
 # DL_tutorial
-Deep learning tutorials for grandma
+Deep learning tutorials that even my grandma would understand
